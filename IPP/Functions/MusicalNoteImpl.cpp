@@ -1,6 +1,6 @@
 /// @brief Musical Notes Application Programming Interface (API) Implementation File
 /// CPSC-298-6 Programming in C++ Project Musical Note Frequencies with Functions
-/// @author outstanding.student@chapman.edu
+/// @author wgatlin@chapman.edu
 
 #include <iostream>
 #include <string>
