@@ -13,6 +13,6 @@ int main()
     }
     char* p_c = p_cArray;
     p_c++;
-    std:cout << "p_c[0]: " << p_c[0] << std::endl;
+    std::cout << "p_c[0]: " << p_c[0] << std::endl;
 
 }
